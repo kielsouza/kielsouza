@@ -7,7 +7,7 @@
     </p>
     <p>
         <img align="left" width="490" height="235"
-            src="https://github-readme-stats.vercel.app/api?username=kielsouza&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" />
+            src="https://github-readme-stats.vercel.app/api?username=kielsouza&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&count_private=true&include_all_commits=true" />
     <p>
         <br>Algumas tecnologias que uso/usei:<br>
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -42,3 +42,4 @@
         <a href="https://open.spotify.com/user/aggwfzs37p4ssrxstmzjb4opk?si=d5449fa99ad94ce2"><img
                 src="https://spotify-recently-played-readme.vercel.app/api?user=aggwfzs37p4ssrxstmzjb4opk&width=1000&count=1" /></a><br />
     </p>
+    <img width="1000" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielsouza&layout=compact"></img>

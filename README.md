@@ -13,23 +13,20 @@
             <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielsouza&layout=compact&hide_border=true&theme=vue"/>    
         </div>
         <div;">
-            <p style="padding : 0; margin : 0; line-height : 20px;">
+            <p>
                 <br>Algumas tecnologias que uso / usei:<br><br>
                 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white" />
                 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
-                </p>
-                <p style="margin-bottom:0;">
+                <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white" />
                 <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
                 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
                 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-                </p>
-                <p>
-                <img src="https://img.shields.io/badge/-Ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white" />
                 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
                 <img src="https://img.shields.io/badge/-React JS-222F29?style=flat-square&logo=React&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />

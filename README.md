@@ -7,7 +7,7 @@
             • 👨‍🎓 Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br>
         </p>
     </div>
-    <div align="left">
+    <div align="center">
         <div>
             <img width="490" src="https://github-readme-stats.vercel.app/api?username=kielsouza&show_icons=trueshow_owner=true&count_private=true&include_all_commits=true&hide_border=true&theme=vue" />
             <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielsouza&layout=compact&hide_border=true&theme=vue"/>    

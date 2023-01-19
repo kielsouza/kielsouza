@@ -32,8 +32,6 @@
                 <img src="https://img.shields.io/badge/-React Testing Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white" />    
             </p>
     </div>
-    
-    </div>
     <div align="left">
         <p>
             Contato e Redes:<br />

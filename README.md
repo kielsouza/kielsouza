@@ -1,7 +1,7 @@
 <div align="left">
         <h3>Olá!</h3>
         <p>
-              • 👦 Me chamo Kiel Souza, tenho 22 anos e moro em <a href="https://www.google.com/maps/place/Porto+Alegre,+RS">Porto Alegre - RS, Brasil  </a>🇧🇷.<br>
+              • 👦 Me chamo Kiel Souza, tenho 22 anos e moro em <a href="https://www.google.com/maps/place/Porto+Alegre,+RS">Porto Alegre - RS, Brasil</a>🇧🇷.<br>
             - 💖 Sou apaixonado por tecnologia, música e cerveja.<br>
             - 👨‍💻 Desenvolvimento WEB na Trybe.<br>
             - 👨‍🎓 Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br>
@@ -31,6 +31,8 @@
                 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
                 <img src="https://img.shields.io/badge/-React Testing Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white" />    
             </p>
+    </div>
+    
     </div>
     <div align="left">
         <p>

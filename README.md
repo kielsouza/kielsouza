@@ -31,7 +31,9 @@
                 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
                 <img src="https://img.shields.io/badge/-React JS-222F29?style=flat-square&logo=React&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
-                <img src="https://img.shields.io/badge/-React Testing Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white" />    
+                <img src="https://img.shields.io/badge/-React Testing Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white" />
+                <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Node.js-3c873a?style=flat-square&logo=Node.js&logoColor=white" />
             <br><br>
     </div>
     <div align="center">
@@ -40,7 +42,7 @@
                 <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
             <a href="https://instagram.com/kiel.jpg">
                 <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-            <a href="https://www.linkedin.com/in/kiel-souza-052040186/">
+            <a href="https://www.linkedin.com/in/kiel-souza/">
                 <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <br>
         <br>
